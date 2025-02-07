@@ -1,0 +1,2 @@
+# My_Math_Models_Code
+用python实现常用的数学模型
